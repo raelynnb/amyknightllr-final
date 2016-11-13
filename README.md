@@ -1,2 +1,2 @@
-# amyknightllr-final
-Final of Amy Knight's LLR business website. No video. Clean and simple template.
+# amyknightllr2
+Take 2 of Amy's LLR website. Video Background, fixed nav, contact form.
